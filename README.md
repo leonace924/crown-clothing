@@ -1,5 +1,5 @@
 # Crown Clothing React Redux website
-Follw the udemy tutorial to improve skills
+Follow the Udemy tutorial to improve skills
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
